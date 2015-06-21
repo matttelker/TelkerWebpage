@@ -7,3 +7,12 @@ c:\users\class2016\documents\visual studio 2013\Projects\WebApplication1\WebAppl
 c:\users\class2016\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 c:\users\class2016\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
 c:\users\class2016\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Class2016\Documents\Visual Studio 2013\Projects\TelkerWebsite\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Class2016\Documents\Visual Studio 2013\Projects\TelkerWebsite\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Class2016\Documents\Visual Studio 2013\Projects\TelkerWebsite\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Class2016\Documents\Visual Studio 2013\Projects\TelkerWebsite\WebApplication1\WebApplication1\bin\WebApplication1.xml
+C:\Users\Class2016\Documents\Visual Studio 2013\Projects\TelkerWebsite\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\Class2016\Documents\Visual Studio 2013\Projects\TelkerWebsite\WebApplication1\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Users\Class2016\Documents\Visual Studio 2013\Projects\TelkerWebsite\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Class2016\Documents\Visual Studio 2013\Projects\TelkerWebsite\WebApplication1\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\Class2016\Documents\Visual Studio 2013\Projects\TelkerWebsite\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
